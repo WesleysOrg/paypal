@@ -4,4 +4,7 @@ java applications
 NodeJS applications
 python applications
 web applications
-bug removed
+bug removed 
+great
+THis app is excellent
+THis app is excellent for all users
